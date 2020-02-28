@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.MuiAppBar-colorPrimary{
+  color: #fff !important;
+  background-color: green !important;
+}
+.MuiDrawer-paperAnchorLeft{
+  /* color: #fff !important;
+  background-color: green !important; */
+}
